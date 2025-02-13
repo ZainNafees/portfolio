@@ -521,34 +521,22 @@ img {
 }
 
 .skills__css {
-  width: 80%;
+  width: 90%;
 }
 
 .skills__js {
-  width: 70%;
+  width: 80%;
 }
 
 .skills__bootstrap {
-  width: 80%;
+  width: 70%;
 }
 
 .skills__react {
   width: 70%;
 }
 
-.skills__sql {
-  width: 90%;
-}
-.skills__php {
-  width: 70%;
-}
 
-.skills__mad {
-  width: 80%;
-}
-.skills__java {
-  width: 70%;
-}
 .skills__oop {
   width: 80%;
 }
